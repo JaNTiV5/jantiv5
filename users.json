@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "name": "Admin",
+      "machine_id": "",
+      "expiry_date": "2025-12-31",
+      "is_blocked": false,
+      "block_message": ""
+    },
+    {
+      "username": "user1",
+      "password": "pass123",
+      "name": "User One",
+      "machine_id": "",
+      "expiry_date": "2025-12-31",
+      "is_blocked": false,
+      "block_message": ""
+    }
+  ]
+}
