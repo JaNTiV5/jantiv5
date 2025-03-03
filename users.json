@@ -1,1 +1,15 @@
-
+{
+    "users": [
+        {
+            "username": "example_user",
+            "name": "مثال كامل",
+            "password": "password123",
+            "expiry_date": "2025-12-31",
+            "is_active": true,
+            "is_blocked": false,
+            "block_message": "",
+            "device_id": "",
+            "role": "user"
+        }
+    ]
+}
