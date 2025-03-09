@@ -1,1 +1,49 @@
-{"users": [{"username": "jantiessmeil", "name": "JaNTi EssMeiL", "password": "f.jv5jannti", "expiry_date": "2100-12-31", "is_active": true, "is_blocked": false, "block_message": "", "device_id": "", "role": "user"}, {"username": "muhammedelothman", "name": "MuhaMMeD EL OthMaN", "password": "0944757690", "expiry_date": "2100-12-31", "is_active": true, "is_blocked": false, "block_message": "", "device_id": "0e6d6cf97984b0edffc4486f536815a5", "role": "user", "hardware_info": {"motherboard_id": "NBQFJ1100122387AAC3400", "cpu_id": "BFEBFBFF000906A3", "combined_hash": "4381f13a045a4a5e040647e3c510365a", "last_updated": "2025-03-09 22:55:03"}}]}
+{
+    "users": [
+        {
+            "username": "muhammedelothman",
+            "password": "0944757690",
+            "email": "edrf.129@gmail.com",
+            "name": "MuhaMMeD EL OthMaN'\
+          ku;\\\\oy5nt",
+            "expiry_date": "2025-12-31",
+            "is_active": true,
+            "is_blocked": false,
+            "block_message": "",
+            "hardware_info": {
+                "motherboard_id": "BOARD123",
+                "cpu_id": "CPU456",
+                "combined_hash": "hash_value",
+                "last_updated": "2025-03-09 12:00:00"
+            },
+            "reset_info": {
+                "reset_code": null,
+                "reset_code_timestamp": null,
+                "reset_attempts": 0,
+                "last_reset_attempt": null
+            },
+            "login_history": {
+                "last_login": "2025-03-09 12:00:00",
+                "login_count": 0,
+                "failed_attempts": 0,
+                "last_failed_attempt": null
+            },
+            "preferences": {
+                "language": "ar",
+                "theme": "light",
+                "notifications_enabled": true
+            }
+        }
+    ],
+    "settings": {
+        "max_login_attempts": 5,
+        "reset_code_expiry_minutes": 30,
+        "minimum_password_length": 6,
+        "require_email_verification": true,
+        "allow_multiple_devices": false,
+        "maintenance_mode": false,
+        "maintenance_message": "",
+        "version": "5.5.0",
+        "last_updated": "2025-03-09 12:00:00"
+    }
+}
