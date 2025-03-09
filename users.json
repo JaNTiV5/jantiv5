@@ -9,12 +9,7 @@
             "is_active": true,
             "is_blocked": false,
             "block_message": "",
-            "hardware_info": {
-                "motherboard_id": "BOARD123",
-                "cpu_id": "CPU456",
-                "combined_hash": "hash_value",
-                "last_updated": "2025-03-09 12:00:00"
-            },
+            "hardware_info": {},
             "reset_info": {
                 "reset_code": null,
                 "reset_code_timestamp": null,
